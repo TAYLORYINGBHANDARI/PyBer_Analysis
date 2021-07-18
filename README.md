@@ -29,10 +29,13 @@ V.Isualize is asking to create a summary DataFrame of the ride-sharing data by c
 ## Results:
 
  Pyber Ride summary by date
+ 
+ 
    ![image](https://user-images.githubusercontent.com/85265816/126076638-a83dfa2d-3f91-48b6-ac4d-ea1112f63884.png)
 
 
  Sum of the fares by week
+ 
     
    ![image](https://user-images.githubusercontent.com/85265816/126076654-782c91dd-0b45-4dba-b8ad-49a075838a2b.png)
 
