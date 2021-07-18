@@ -27,18 +27,19 @@ V.Isualize is asking to create a summary DataFrame of the ride-sharing data by c
 
 
 ## Results:
-    - Pyber Ride summary by date
-    ![image](https://user-images.githubusercontent.com/85265816/126076589-5c2e9ebd-7ad7-4c9d-b127-0fee07237c93.png)
 
+ Pyber Ride summary by date
+   ![image](https://user-images.githubusercontent.com/85265816/126076638-a83dfa2d-3f91-48b6-ac4d-ea1112f63884.png)
+
+
+ Sum of the fares by week
+    
+   ![image](https://user-images.githubusercontent.com/85265816/126076654-782c91dd-0b45-4dba-b8ad-49a075838a2b.png)
+
+ Total Fare by City Type multi-linegrapph
    
-    - sum of the fares by week
+ ![image](https://user-images.githubusercontent.com/85265816/126076668-3d4e0962-1918-42bb-9073-2fefab39849f.png)
     
-    ![image](https://user-images.githubusercontent.com/85265816/126076575-a2f7319d-1411-4e06-b9bf-ef6d3d3fb35d.png)
-
-    
-    - Total Fare by City Type multi-linegrapph
-    
-     ![image](https://user-images.githubusercontent.com/85265816/126076551-35d6bac3-7d49-4e8e-88fd-e22259ca92c8.png)
 
 
 The datashows that the ride sharing business has a larger scale than suburban and rural cities.
